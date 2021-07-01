@@ -1,0 +1,22 @@
+{
+  "name": "es6ModuleTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.6",
+    "mysql2": "^2.2.5"
+  },
+  "dependencies": {
+    "@jest/globals": "^27.0.6"
+  }
+}
